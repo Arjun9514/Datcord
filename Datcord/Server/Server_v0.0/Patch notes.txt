@@ -1,0 +1,67 @@
+                  *Start the Server*
+|===================================================|
+#Version 0.0.0 Alpha
+ReleaseDate : 30 April,2023
+->New
+ ~ Using socket to create a server 
+->Updated
+ ~ -- 
+->Fixed
+ ~ -- 
+->Removed
+ ~ --
+
+|===================================================|
+#Version 0.0 Beta
+ReleaseDate : 1 May,2023
+->New
+ ~ New server functions class 
+ ~ 7 New Functions and their commands
+ ~ /help,/snd,/dm,/kick,/stats,/sd,/stp
+ ~ /help for helpful information about the commands 
+ ~ Added colors for better visual
+->Updated
+ ~ -- 
+->Fixed
+ ~ -- 
+->Removed
+ ~ --
+
+|===================================================|
+#Version 0.0 Gamma
+ReleaseDate : 11 May,2023
+->New
+ ~ New Username protection measures 
+->Updated
+ ~ Server can now better handle clients 
+->Fixed
+ ~ -- 
+->Removed
+ ~ Removed lot of stuff from CntnwClt
+
+|===================================================|
+#Version 0.0 
+ReleaseDate : 12 May,2023
+->New
+ ~ New Account System implemented
+ ~ New Function, Backup/Save
+ ~ New command : /bkup
+->Updated
+ ~ updated handle function
+->Fixed
+ ~ -- 
+->Removed
+ ~ --
+
+|===================================================|
+#Version 0.0.1
+ReleaseDate : 12 May,2023
+->New
+ ~ New path variable
+->Updated
+ ~ Updated stats to show total number of clients  
+->Fixed
+ ~ Fixed a bug: error message shown when user abrutly disconnects
+ ~ Fixed a bug: multiple users can join with same acc at once  
+->Removed
+ ~ --
